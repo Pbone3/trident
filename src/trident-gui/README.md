@@ -1,0 +1,1 @@
+A Tauri + Vite + Svelete + TypeScript GUI.
